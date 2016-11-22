@@ -91,6 +91,7 @@
 * [Python for Finance](https://book.douban.com/subject/25921015/)
 * [Algorithmic Thinking](https://www.coursera.org/learn/algorithmic-thinking-1) - Python 算法思维训练
 
+
 #### 库
 * [awesome-python: A curated list of awesome Python frameworks, libraries, software and resources](https://github.com/vinta/awesome-python)
 * [pandas](http://pandas.pydata.org) - Python做数据分析的基础
@@ -144,6 +145,7 @@
 
 * [Solve Programming Questions | HackerRank](https://www.hackerrank.com/domains) - 包含常用语言(C++, Java, Python, Ruby, SQL)和相关计算机应用技术(算法、数据结构、数学、AI、Linux Shell、分布式系统、正则表达式、安全)的教程和挑战。
 * [LeetCode Online Judge](https://leetcode.com/) - C, C++, Java, Python, C#, JavaScript, Ruby, Bash, MySQL在线编程训练
+* [Hackerrank](https://www.hackerrank.com/domains) - C, C++, Java, Python, C#, JavaScript, Ruby, Bash, MySQL在线编程训练
 
 ## 论坛
 * [Quantitative Finance StackExchange](http://quant.stackexchange.com/) -  stackexchange 系列的 quant 论坛
